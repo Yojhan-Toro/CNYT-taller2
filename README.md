@@ -8,27 +8,12 @@ Este repositorio contiene ejercicios y código relacionado con el estudio de nú
 ## Contenidos
 
 1. **Ejercicios de Operaciones con Números Complejos**
+   - Suma, multiplicacion y divicion de vectores.
    - Producto interno complejo para vectores y matrices.
    - Multiplicación de matrices complejas por escalares.
+   - Representacion grafica de complejos.
    - Cálculo de conjugado, transposición y adjunto (transpuesto conjugado) de matrices complejas.
-
-2. **Generación de Conjunto de Julia**
-   - Implementación de un generador de conjuntos de Julia para explorar patrones generados por diferentes constantes complejas.
-
-3. **Propiedades de los Números Complejos**
-   - Verificación de propiedades fundamentales como el valor absoluto del producto y el conjugado de la suma.
-
-## Ejercicios
-
-### Ejercicio 4: Creación de un Conjunto de Julia
-
-1. Implementa un generador de conjuntos de Julia utilizando una constante como `-0.4 + 0.6j`.
-2. Explora cómo cambiar la constante afecta el patrón del conjunto de Julia.
-
-### Ejercicio 5: Propiedades de los Números Complejos
-
-1. Demuestra que el valor absoluto del producto de dos números complejos es el producto de sus valores absolutos.
-2. Muestra que el conjugado de la suma de dos números complejos es la suma de sus conjugados.
+   - Producto tensor de matrices y vectors.
 
 ## Autor
 
